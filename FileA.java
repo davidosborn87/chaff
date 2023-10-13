@@ -1,4 +1,4 @@
-//original commit to orignial branch
+//this is the third commit of file A, and the second to the orignal branch
 
 public class CurrencyConverter {
     public static void main(String[] args) {
