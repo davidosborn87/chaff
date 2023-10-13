@@ -1,4 +1,4 @@
-//orignial commit to first offshoot
+//second commit to offshoot
                 System.out.println("£" + pounds + " will give you " + euro + "€");
                 break;
             case 2:
