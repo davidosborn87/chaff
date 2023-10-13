@@ -1,5 +1,5 @@
-//this is the fourth commit of file A, and the third to the orignal branch
 
+//fifth commit of file A, second time to offshoot
 public class CurrencyConverter {
     public static void main(String[] args) {
         java.util.Scanner scan = new java.util.Scanner(System.in);
@@ -41,3 +41,4 @@ public class CurrencyConverter {
         System.out.println("Exiting the program");
     }
 }
+//this is the merger
