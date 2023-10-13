@@ -1,4 +1,4 @@
-//original commit to orignial branch
+//second commit of file A, this time to offshoot
 
 public class CurrencyConverter {
     public static void main(String[] args) {
